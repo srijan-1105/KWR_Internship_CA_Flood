@@ -11,3 +11,7 @@ __pycache__/
 # Results (generated outputs)
 results/*
 !results/.gitkeep
+
+# Outputs (generated files)
+outputs/*
+!outputs/.gitkeep
